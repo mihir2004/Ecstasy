@@ -1,0 +1,60 @@
+.my-form {
+    color: #86C232;
+}
+.my-form .btn-default {
+    color: #fff;
+    border-radius: 8px;
+    padding: 10px 15px;
+    font-size: 18px;
+    border: 2px solid #fff;
+}
+.my-form .btn-default:hover {
+    background-color: #86C232;
+    color: #fff;
+    transition: all 0.5s;
+}
+.my-form .form-control {
+    border-radius: 0;
+}
+.brand{
+  color: #86C232;
+  padding: 10px;
+}
+
+body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background: #222629;
+}
+
+section{
+  padding: 0 0 5% 0;
+}
+
+.address{
+  color: black;
+  filter: invert(1);
+  opacity: 0.5;
+}
+
+.heading{
+  color: #86C232;
+
+}
+.address:hover{
+  opacity: 1;
+  cursor: pointer;
+}
+.addlink{
+  text-decoration: none;
+}
+
+.addlink:hover{
+  text-decoration: none;
+}
+
+.brand a{
+  text-decoration: none;
+  color: #86C232;
+}
